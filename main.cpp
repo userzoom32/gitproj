@@ -4,5 +4,6 @@ using namespace std;
 
 main(){
 	cout<<"Hi"<<endl;
-	cout<<"Hi C++"<<endl;	
+	cout<<"Hi Java"<<endl;
+	cout<<"Hi Spring"<<endl;	
 }
